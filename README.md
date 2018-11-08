@@ -6,4 +6,5 @@
 3. Run `yarn start`
 
 # Coin Flip
-In Progress...
+1. `cd FlipCoin`
+2. Run `node flip.js
